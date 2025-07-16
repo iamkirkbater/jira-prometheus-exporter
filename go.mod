@@ -1,4 +1,4 @@
-module github.com/iamkirkbater/jira-exporter
+module github.com/iamkirkbater/jira-prometheus-exporter
 
 go 1.21.1
 

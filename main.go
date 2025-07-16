@@ -11,7 +11,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 
-	"github.com/iamkirkbater/jira-exporter/pkg/jira"
+	"github.com/iamkirkbater/jira-prometheus-exporter/pkg/jira"
 )
 
 const (
